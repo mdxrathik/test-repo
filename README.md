@@ -1,2 +1,2 @@
 # test-repo
-This report is created for test-purpose
+This repo is created for test-purpose
